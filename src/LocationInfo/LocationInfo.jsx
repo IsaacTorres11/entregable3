@@ -30,9 +30,6 @@ const LocationInfo = () => {
         consultaApi ()
     },[])
 
-    const habitantes = terra.residents
-    
-
     return (
         <div className='tierra'>
             <header className='encabezado'>
